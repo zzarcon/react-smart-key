@@ -2,7 +2,10 @@
   "name": "react-smart-key",
   "version": "0.0.2",
   "main": "dist/es5/index.js",
-  "repository": "",
+  "jsnext:main": "dist/es2015/index.js",
+  "module": "dist/es2015/index.js",
+  "types": "dist/es5/index.d.ts",
+  "repository": "https://github.com/zzarcon/react-smart-key",
   "author": "Hector Leon Zarco Garcia <hezarco@gmail.com>",
   "license": "MIT",
   "devDependencies": {
@@ -23,11 +26,15 @@
     "format": "ts-react-toolbox format",
     "analyze": "ts-react-toolbox analyze"
   },
-  "jsnext:main": "dist/es2015/index.js",
-  "module": "dist/es2015/index.js",
-  "types": "dist/es5/index.d.ts",
   "files": [
     "dist"
   ],
-  "keywords": []
+  "keywords": [
+    "react",
+    "key",
+    "smart",
+    "string",
+    "list",
+    "react-key"
+  ]
 }
