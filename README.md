@@ -102,3 +102,7 @@ class App extends Component {
 }
 
 ```
+
+## Author
+
+[@zzarcon](https://twitter.com/zzarcon) 😜
