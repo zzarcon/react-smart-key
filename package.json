@@ -1,6 +1,6 @@
 {
   "name": "react-smart-key",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "dist/es5/index.js",
   "jsnext:main": "dist/es2015/index.js",
   "module": "dist/es2015/index.js",
