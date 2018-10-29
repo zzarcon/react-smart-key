@@ -36,6 +36,8 @@ generateKey(foo) === generateKey(() => {}) // false
 This example illustrates different kind of items and how it will always return the same key for each of them.
 
 ```jsx
+import generateKey from 'react-smart-key';
+
 const items = [
   () => {}, 
   Promise.resolve('a'),
